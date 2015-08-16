@@ -17,7 +17,6 @@ D:\DEV\AngularTutorial\AngularTutorial\bin\System.Web.Http.Tracing.dll
 D:\DEV\AngularTutorial\AngularTutorial\bin\System.Web.Http.WebHost.dll
 D:\DEV\AngularTutorial\AngularTutorial\bin\System.Web.Mvc.dll
 D:\DEV\AngularTutorial\AngularTutorial\bin\System.Web.Optimization.dll
-D:\DEV\AngularTutorial\AngularTutorial\bin\System.Web.Providers.dll
 D:\DEV\AngularTutorial\AngularTutorial\bin\System.Web.Razor.dll
 D:\DEV\AngularTutorial\AngularTutorial\bin\System.Web.WebPages.Deployment.dll
 D:\DEV\AngularTutorial\AngularTutorial\bin\System.Web.WebPages.dll
@@ -73,3 +72,7 @@ D:\DEV\AngularTutorial\AngularTutorial\bin\EntityFramework.SqlServer.dll
 D:\DEV\AngularTutorial\AngularTutorial\bin\EntityFramework.SqlServer.xml
 D:\DEV\AngularTutorial\AngularTutorial\obj\Debug\AngularTutorial.Migrations.InitialCreate.resources
 D:\DEV\AngularTutorial\AngularTutorial\obj\Debug\AngularTutorial.csproj.GenerateResource.Cache
+D:\DEV\AngularTutorial\AngularTutorial\bin\System.Net.Http.dll
+D:\DEV\AngularTutorial\AngularTutorial\bin\System.Net.Http.WebRequest.dll
+D:\DEV\AngularTutorial\AngularTutorial\bin\System.Net.Http.xml
+D:\DEV\AngularTutorial\AngularTutorial\bin\System.Net.Http.WebRequest.xml
